@@ -5,7 +5,7 @@ Code Review Bone: Movie_info_Search_song.ipynb
 In the original data collected by the Kobis Film Institute
 Name ['Actor'], plot ['Plot'], running time ['Runtime'], poster (link'] selenium of each of the 'Page' leading actors, filtered by data XPATH and saved as CSV file.
 
-电影项目。
+- 推荐电影项目网页。
 原本 : Movie_info_Search (Actor, Plot, Runtime, Poster).ipynb
 代码审查本 : Movie_info_Search_song.ipynb
 
