@@ -1,3 +1,4 @@
+** EN **
 This is the first movie project code review.  
 Original : Movie_info_Search (Actor, Plot, Runtime, Poster).ipynb  
 Code Review Bone: Movie_info_Search_song.ipynb  
@@ -6,6 +7,7 @@ In the original data collected by the Kobis Film Institute
 Name ['Actor'], plot ['Plot'], running time ['Runtime'], poster (link']  
 selenium of each of the 'Page' leading actors, filtered by data XPATH and saved as CSV file.  
 
+** CN **
 原本 : Movie_info_Search (Actor, Plot, Runtime, Poster).ipynb  
 代码审查本 : Movie_info_Search_song.ipynb  
 
@@ -13,6 +15,7 @@ selenium of each of the 'Page' leading actors, filtered by data XPATH and saved 
 各"页面"1-4名主演的名字["Actor"]、故事情节["Plot"]、  
 播放时间["Runtime"]、海报(链接)["Poster"]Selenium,用数据XPATH过滤,保存为CSV文件。  
 
+** KO **
 첫번째 영화 프로젝트 코드리뷰입니다. 
 원본 : Movie_info_Search (Actor, Plot, Runtime, Poster).ipynb  
 코드리뷰 본 : Movie_info_Search_song.ipynb  
